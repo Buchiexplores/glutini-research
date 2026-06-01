@@ -180,4 +180,4 @@ Notebooks (sklearn) → export/retrain → **TensorFlow Lite** (Glutini app). Wa
 ## References & authorship
 
 - **Paper:** [MDPI](https://www.mdpi.com/2071-1050/15/11/8742) · [Glutini](http://glutini-res.com/)
-- **Author:** Abuchi Godswill Okeke (abuchi.okeke@uky.edu) · Co-authors: A. Adedeji, A. Okeke, A. Rady
+- **Author:** Abuchi Godswill Okeke (okekeag@gmail.com) · Co-authors: A. Adedeji, A. Okeke, A. Rady
